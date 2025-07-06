@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello, World from the Github!"
+    return "Hello, World from the Github in staging branch!"
